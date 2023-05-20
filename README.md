@@ -1,5 +1,5 @@
 # Bike-Sales-Dashboard-Excel
-Designed an interactive dashboard using MS Excel
+Designed an interactive dashboard using MS Excel with the help of a Youtube tutorial by Alex Freberg (Alex The Analyst) 
 The dashboard provides valuable insights such as:
 
 - The sales figures based on the average income of customers in a particular region and occupation
@@ -23,3 +23,6 @@ During the process of building this dashboard, I learned various techniques such
 - Designing the dashboard
 
 - Slicer formatting
+
+
+YouTube video link- https://lnkd.in/dKYu--aP
