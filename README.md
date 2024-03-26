@@ -1,4 +1,4 @@
-# Bike-Sales-Dashboard-Excel
+# Sales-Dashboard-Excel
 Designed an interactive dashboard using MS Excel with the help of a Youtube tutorial by Alex Freberg (Alex The Analyst) 
 The dashboard provides valuable insights such as:
 
