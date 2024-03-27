@@ -24,5 +24,4 @@ During the process of building this dashboard, I learned various techniques such
 
 - Slicer formatting
 
-
-YouTube video link- https://lnkd.in/dKYu--aP
+Video Presentation on LinkedIn: https://www.linkedin.com/feed/update/urn:li:activity:7044234693772292096/
